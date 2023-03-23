@@ -1,0 +1,322 @@
+[
+    {
+        "ProficiencyID": "123456",
+        "ProficiencyLevel": "P1"
+    },
+    {
+        "ProficiencyID": "123457",
+        "ProficiencyLevel": "P2"
+    },
+    {
+        "ProficiencyID": "123458",
+        "ProficiencyLevel": "P3"
+    },
+    {
+        "ProficiencyID": "123459",
+        "ProficiencyLevel": "P4"
+    },
+    {
+        "ProficiencyID": "123455",
+        "ProficiencyLevel": "P5"
+    },
+    {
+        "ProficiencyID": "SDrCAGJK",
+        "ProficiencyLevel": "P6"
+    },
+    {
+        "ProficiencyID": "ZNjjsEFg",
+        "ProficiencyLevel": "P7"
+    },
+    {
+        "ProficiencyID": "xwJCnpjU",
+        "ProficiencyLevel": "P8"
+    },
+    {
+        "ProficiencyID": "XRjYAaNg",
+        "ProficiencyLevel": "P9"
+    },
+    {
+        "ProficiencyID": "gQeHBZCn",
+        "ProficiencyLevel": "10"
+    },
+    {
+        "ProficiencyID": "ppKXZdsc",
+        "ProficiencyLevel": "11"
+    },
+    {
+        "ProficiencyID": "VINcFuyS",
+        "ProficiencyLevel": "12"
+    },
+    {
+        "ProficiencyID": "JAQftpsH",
+        "ProficiencyLevel": "13"
+    },
+    {
+        "ProficiencyID": "vdpHlalc",
+        "ProficiencyLevel": "14"
+    },
+    {
+        "ProficiencyID": "kIYUFLKK",
+        "ProficiencyLevel": "15"
+    },
+    {
+        "ProficiencyID": "BImVQJer",
+        "ProficiencyLevel": "16"
+    },
+    {
+        "ProficiencyID": "IPbGMhvr",
+        "ProficiencyLevel": "17"
+    },
+    {
+        "ProficiencyID": "myQgcDUG",
+        "ProficiencyLevel": "18"
+    },
+    {
+        "ProficiencyID": "DnbJQDQr",
+        "ProficiencyLevel": "19"
+    },
+    {
+        "ProficiencyID": "YTUeTbYf",
+        "ProficiencyLevel": "20"
+    },
+    {
+        "ProficiencyID": "WmnvSgPW",
+        "ProficiencyLevel": "21"
+    },
+    {
+        "ProficiencyID": "cUtjvyWe",
+        "ProficiencyLevel": "22"
+    },
+    {
+        "ProficiencyID": "dywdwgav",
+        "ProficiencyLevel": "23"
+    },
+    {
+        "ProficiencyID": "pnGXSvuV",
+        "ProficiencyLevel": "24"
+    },
+    {
+        "ProficiencyID": "OPriLuxa",
+        "ProficiencyLevel": "25"
+    },
+    {
+        "ProficiencyID": "AZxDmKgp",
+        "ProficiencyLevel": "26"
+    },
+    {
+        "ProficiencyID": "yrRlMtbr",
+        "ProficiencyLevel": "27"
+    },
+    {
+        "ProficiencyID": "WEhOItVb",
+        "ProficiencyLevel": "28"
+    },
+    {
+        "ProficiencyID": "KZrfHxgz",
+        "ProficiencyLevel": "29"
+    },
+    {
+        "ProficiencyID": "InmhWuXW",
+        "ProficiencyLevel": "30"
+    },
+    {
+        "ProficiencyID": "EBSplISU",
+        "ProficiencyLevel": "31"
+    },
+    {
+        "ProficiencyID": "bNDmJSEE",
+        "ProficiencyLevel": "32"
+    },
+    {
+        "ProficiencyID": "VwPufTpn",
+        "ProficiencyLevel": "33"
+    },
+    {
+        "ProficiencyID": "nuPrKguA",
+        "ProficiencyLevel": "34"
+    },
+    {
+        "ProficiencyID": "fwmvTNIi",
+        "ProficiencyLevel": "35"
+    },
+    {
+        "ProficiencyID": "usjKAcKM",
+        "ProficiencyLevel": "36"
+    },
+    {
+        "ProficiencyID": "ZonhrjQl",
+        "ProficiencyLevel": "37"
+    },
+    {
+        "ProficiencyID": "PrRhXqVN",
+        "ProficiencyLevel": "38"
+    },
+    {
+        "ProficiencyID": "RnsskncM",
+        "ProficiencyLevel": "39"
+    },
+    {
+        "ProficiencyID": "FQMtRADy",
+        "ProficiencyLevel": "40"
+    },
+    {
+        "ProficiencyID": "jbZsgQQG",
+        "ProficiencyLevel": "41"
+    },
+    {
+        "ProficiencyID": "SWgQsAFC",
+        "ProficiencyLevel": "42"
+    },
+    {
+        "ProficiencyID": "yxXecJlY",
+        "ProficiencyLevel": "43"
+    },
+    {
+        "ProficiencyID": "PSmtlZOU",
+        "ProficiencyLevel": "44"
+    },
+    {
+        "ProficiencyID": "WObdtYFT",
+        "ProficiencyLevel": "45"
+    },
+    {
+        "ProficiencyID": "WFaZJlMu",
+        "ProficiencyLevel": "46"
+    },
+    {
+        "ProficiencyID": "qPEaivnV",
+        "ProficiencyLevel": "47"
+    },
+    {
+        "ProficiencyID": "xHDkPARJ",
+        "ProficiencyLevel": "48"
+    },
+    {
+        "ProficiencyID": "GmopJEzz",
+        "ProficiencyLevel": "49"
+    },
+    {
+        "ProficiencyID": "BfrWJsVm",
+        "ProficiencyLevel": "50"
+    },
+    {
+        "ProficiencyID": "OgHuWUSx",
+        "ProficiencyLevel": "51"
+    },
+    {
+        "ProficiencyID": "PVxfnOkL",
+        "ProficiencyLevel": "52"
+    },
+    {
+        "ProficiencyID": "pfmQhIMv",
+        "ProficiencyLevel": "53"
+    },
+    {
+        "ProficiencyID": "oNEHhmBW",
+        "ProficiencyLevel": "54"
+    },
+    {
+        "ProficiencyID": "rMFGVbwA",
+        "ProficiencyLevel": "55"
+    },
+    {
+        "ProficiencyID": "lMMadUii",
+        "ProficiencyLevel": "56"
+    },
+    {
+        "ProficiencyID": "wblxkupn",
+        "ProficiencyLevel": "57"
+    },
+    {
+        "ProficiencyID": "QBptbUXC",
+        "ProficiencyLevel": "58"
+    },
+    {
+        "ProficiencyID": "JGUBGzTF",
+        "ProficiencyLevel": "59"
+    },
+    {
+        "ProficiencyID": "fbUCfGcj",
+        "ProficiencyLevel": "60"
+    },
+    {
+        "ProficiencyID": "hSnbJuPE",
+        "ProficiencyLevel": "61"
+    },
+    {
+        "ProficiencyID": "SVNdqVAI",
+        "ProficiencyLevel": "62"
+    },
+    {
+        "ProficiencyID": "dZglZEjw",
+        "ProficiencyLevel": "63"
+    },
+    {
+        "ProficiencyID": "dhLsvsyd",
+        "ProficiencyLevel": "64"
+    },
+    {
+        "ProficiencyID": "aaiPDZVW",
+        "ProficiencyLevel": "65"
+    },
+    {
+        "ProficiencyID": "jrMVpPwY",
+        "ProficiencyLevel": "66"
+    },
+    {
+        "ProficiencyID": "mhLXOmOW",
+        "ProficiencyLevel": "67"
+    },
+    {
+        "ProficiencyID": "LHfRSaJB",
+        "ProficiencyLevel": "68"
+    },
+    {
+        "ProficiencyID": "BMPvtHPK",
+        "ProficiencyLevel": "69"
+    },
+    {
+        "ProficiencyID": "xdsZSTBq",
+        "ProficiencyLevel": "70"
+    },
+    {
+        "ProficiencyID": "yIJjlyhg",
+        "ProficiencyLevel": "71"
+    },
+    {
+        "ProficiencyID": "lqHYnzoK",
+        "ProficiencyLevel": "72"
+    },
+    {
+        "ProficiencyID": "FbCeZHCM",
+        "ProficiencyLevel": "73"
+    },
+    {
+        "ProficiencyID": "ZXsBQMiC",
+        "ProficiencyLevel": "74"
+    },
+    {
+        "ProficiencyID": "YrUsVgLl",
+        "ProficiencyLevel": "75"
+    },
+    {
+        "ProficiencyID": "cMoFIGYr",
+        "ProficiencyLevel": "76"
+    },
+    {
+        "ProficiencyID": "RMJYQHZV",
+        "ProficiencyLevel": "77"
+    },
+    {
+        "ProficiencyID": "asfBReJB",
+        "ProficiencyLevel": "78"
+    },
+    {
+        "ProficiencyID": "eBooxsmO",
+        "ProficiencyLevel": "79"
+    },
+    {
+        "ProficiencyID": "dccRRvXS",
+        "ProficiencyLevel": "80"
+    }
+]
